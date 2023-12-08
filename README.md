@@ -1,5 +1,5 @@
 # MambaViT
-ViT architecture with Mamba instead of transformer backbone. The ViT code is based on https://github.com/lucidrains/vit-pytorch and can be used like this:
+ViT architecture with Mamba instead of transformer backbone. The ViT code is based on https://github.com/lucidrains/vit-pytorch. This model can be used like this:
 
 ```python
 m = MambaViT(
